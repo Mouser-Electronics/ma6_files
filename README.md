@@ -4,3 +4,5 @@ Project application source code files for connecting Analog Devices ADICUP3029 t
 
 ADuCM3029_MediumOne_1.0.0.zip is the project archive for importing into CrossCore Embedded Studio.
 
+## https://www.mouser.com/applications/analog-devices-in-cloud/
+
